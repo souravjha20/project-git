@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello, this is git session date on 17th July 2021
 This is session on saturday
 joaa jaos sjaoa ajosa  
+=======
+Hello, this is git session date on 17th July 2021 
+>>>>>>> parent of c888717... second commit
