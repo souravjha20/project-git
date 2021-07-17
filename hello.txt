@@ -1,1 +1,2 @@
-Hello, this is git session date on 17th July 2021 
+Hello, this is git session date on 17th July 2021
+This is session on saturday  
